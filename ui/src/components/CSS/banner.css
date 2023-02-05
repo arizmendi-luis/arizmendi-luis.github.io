@@ -1,0 +1,58 @@
+.banner{ 
+    text-align: center; 
+    align-items: center;  
+    background-color: #060b26;     
+    height: 500px; 
+    width: 100%;  
+    display: block; 
+    color: whitesmoke;
+    
+}   
+
+.bannerWords{   
+    color: white; 
+    font-size: 60px; 
+    font-family: "Lucida Console", "Courier New", monospace; 
+}  
+.bannerSub{   
+    color: lightgray; 
+    font-size: 30px; 
+    font-family: "Lucida Console", "Courier New", monospace;
+}   
+
+a.social{ 
+    margin: 0 1rem; 
+    transition: transform 250ms; 
+    display:incline-block;  
+}
+a.social:hover{ 
+    opacity: 0.5;
+} 
+
+a.youtube{ 
+    color: #eb3223; 
+} 
+a.Github{ 
+    color: gray; 
+} 
+a.LinkedIn{ 
+    color: #1b91f1; 
+} 
+a.Mail{ 
+    color: rgb(237, 232, 232);  
+} 
+a.Thingiverse{  
+}
+/*
+    height: 500px; 
+    width: 100%;
+    display: flex;
+    align-items: center;*/  
+
+.bottomStripe{  
+    margin-top: 5%;
+    background-color: rgb(19,87,190); 
+    height: 30px; 
+    width: 100%;
+}
+

@@ -1,0 +1,81 @@
+.box{
+    background-color: #ffffff;
+    box-sizing: border-box;
+    margin: 20px;
+    border: 1px solid rgb(185, 185, 185) ;
+    border-radius: 7px;
+    padding: 15px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto; 
+  }   
+
+  .sideBySide{ 
+    border: 1px solid black;
+    margin: 0rem;
+    width: 100%; 
+    height: auto; 
+    background-color: #ffffff; 
+    border: 1px solid rgb(185, 185, 185) ;
+    border-radius: 7px; 
+    margin-top: 15px;
+  }
+
+  .halfBox{   
+    display: inline-block;
+    padding: 10px;
+    vertical-align: middle; 
+    width: 50%; 
+    height: 100%; 
+  }   
+
+  .thirdBox{   
+    display: inline-block;
+    padding: 10px;
+    vertical-align: middle; 
+    width: 33%; 
+    height: 100%; 
+    text-align: center; 
+  }  
+  
+  .thirdBoxSettingIndex{   
+    display: inline-block;
+    padding: 10px;
+    vertical-align: middle; 
+    width: 33%; 
+    height: 100%; 
+    margin-left: 17%; 
+    text-align: center; 
+  } 
+
+  .twoThirdBox{   
+    display: inline-block;
+    padding: 10px;
+    vertical-align: middle; 
+    width: 66%; 
+    height: 100%; 
+  } 
+
+  .title{ 
+    display: inline-block; 
+    padding: auto; 
+    text-align: center; 
+    width: 100%;
+  } 
+
+  .buttonCenter{ 
+    width: 50%; 
+    align-items: center; 
+    text-align: center; 
+    background-color: rgb(19,87,190); 
+    border: 2px solid black;
+    border-radius: 20px; 
+    color: white;
+    margin-left: 25%; 
+    margin-right: 25%;
+  }  
+  .buttonCenter:hover{ 
+    background-color: #1a83ff;
+  } 
+
+
