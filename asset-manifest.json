@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/arizmendi-luis.github.io/static/css/main.05ba97f1.css",
+    "main.js": "/arizmendi-luis.github.io/static/js/main.c107dbce.js",
+    "index.html": "/arizmendi-luis.github.io/index.html",
+    "main.05ba97f1.css.map": "/arizmendi-luis.github.io/static/css/main.05ba97f1.css.map",
+    "main.c107dbce.js.map": "/arizmendi-luis.github.io/static/js/main.c107dbce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05ba97f1.css",
+    "static/js/main.c107dbce.js"
+  ]
+}
