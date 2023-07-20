@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.05ba97f1.css",
-    "main.js": "/static/js/main.c107dbce.js",
+    "main.css": "/static/css/main.101ff500.css",
+    "main.js": "/static/js/main.18c9da35.js",
+    "static/media/Towbody2.jpg": "/static/media/Towbody2.3f137917f583f3f02bab.jpg",
     "index.html": "/index.html",
-    "main.05ba97f1.css.map": "/static/css/main.05ba97f1.css.map",
-    "main.c107dbce.js.map": "/static/js/main.c107dbce.js.map"
+    "main.101ff500.css.map": "/static/css/main.101ff500.css.map",
+    "main.18c9da35.js.map": "/static/js/main.18c9da35.js.map"
   },
   "entrypoints": [
-    "static/css/main.05ba97f1.css",
-    "static/js/main.c107dbce.js"
+    "static/css/main.101ff500.css",
+    "static/js/main.18c9da35.js"
   ]
 }
