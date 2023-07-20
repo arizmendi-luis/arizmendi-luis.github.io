@@ -94,10 +94,9 @@
   .thirdGrid{    
     display: inline-block;
     vertical-align: middle; 
-    width: 33.3333%; 
-    height: 100%; 
+    width: 33.3333%;  
     text-align: left; 
-    padding-bottom: 20px; 
+    padding-bottom: 12px; 
   } 
 
   .ripple-container {
@@ -120,6 +119,11 @@
       transform: scale(4);
       opacity: 0;
     }
+  } 
+  .gridPic{  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
   
   .gridPic:hover {
