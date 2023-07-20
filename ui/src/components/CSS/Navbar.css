@@ -22,7 +22,8 @@
 
 .sidebar { 
     background-color:  rgb(13,58,169) ; 
-    text-align: center;
+    text-align: center; 
+    z-index: 9;
 }
 
 .navbarTitle { 

@@ -16,7 +16,7 @@ function Navbar() {
     return (
         <> 
             <IconContext.Provider value={{color:'#fff'}}> 
-                <div className = 'navbarEnd'>   
+                <div className = 'navbarEnd' >   
                     <Link to="#" className="menu-bars"> 
                         <FaIcons.FaBars onClick={showSidebar}/>      
                     </Link>     
@@ -27,7 +27,7 @@ function Navbar() {
                  <div className = 'navbar'>   
                 </div> 
                 <TopNav/>  
-                <nav className={sidebar ? 'nav-menu active': 'nav-menu'}> 
+                <nav className={sidebar ? 'nav-menu active': 'nav-menu'} style={{zIndex: 11}}> 
                     <ul className="nav-menu-items" onClick={showSidebar}>  
                         <li className='navbar-toggle'>  
                             <Link to='#' className='menu-bars'>

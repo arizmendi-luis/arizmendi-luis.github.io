@@ -10,14 +10,14 @@ function Index() {
             <h1>Index</h1>  
         </div>  
         <div className='thirdBox'>
-            <h4>Want to learn about what I do?</h4> 
-            <p>Click here to see my Projects</p> 
+            <h4>View portfolio</h4> 
+            <p>Click here to see Projects</p> 
             <Link to={'/projects'}><button className ='buttonCenter' onClick = {()=>setPage('Projects')}>
                 Projects</button></Link><p></p>
         </div> 
         <div className='thirdBox'> 
-            <h4>Want to Reach out?</h4> 
-            <p>Click here for Contact</p> 
+            <h4>Reach out?</h4> 
+            <p>Click for Contact page</p> 
             <Link to={'/contact'}><button className ='buttonCenter' onClick = {()=>setPage('Contact')}>
                 Contact</button></Link><p></p>
         </div> 

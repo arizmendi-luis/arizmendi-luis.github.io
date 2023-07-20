@@ -17,7 +17,7 @@ function WelcomeBanner() {
   return ( 
       <div className='banner'> 
         <p className='bannerWords'>Luis Arizmendi</p>  
-        <p className='bannerSub'>I'm an Aspiring Software & Aerospace Engineer </p>  
+        <p className='bannerSub'>Aspiring Software Engineer </p>  
           {/* <Typical className='bannerSub'
           loop={Infinity} 
           wrapper="c" 

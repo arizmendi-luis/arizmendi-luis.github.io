@@ -14,7 +14,8 @@ function Notes() {
       </div> 
       <div className='twoThirdBox'> 
         <p>* Website is still underdevelopment, many features are yet to be implemented and sections 
-            and button implementation is unfunctional or nonexistent. Thanks for visiting</p>    
+            and button implementation is unfunctional or nonexistent. Thanks for visiting</p> 
+        <p>*Website not yet optimized for mobile viewership</p>    
       </div> 
     </div> 
 )

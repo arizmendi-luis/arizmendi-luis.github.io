@@ -6,7 +6,7 @@ import TopNav from '../components/TopNav'
 import About from '../components/About' 
 import Index from  '../components/Index' 
 import Notes from '../components/Notes'
-
+var version = '1'
 
 function Home() {
   return ( 
@@ -16,8 +16,10 @@ function Home() {
           <Notes/> 
           <About/>  
           <Index/> 
-        </Container> 
-        <div className='bottomStripe'></div>   
+        </Container>  
+        <div className='bottomStripe'> 
+        <p class='forvers'>version: {version}</p>
+        </div>   
     </div>
   )
 }

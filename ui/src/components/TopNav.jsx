@@ -12,7 +12,7 @@ function TopNav() {
     const {page, setPage} = useContext(PageContext);
     return (
         <>  
-            <ul id="nav"> 
+            <ul id="nav" style={{zIndex: 10}}> 
                 <li onClick = {()=>setPage('User')} ><Link to={'/User'}>User</Link></li>
                 <li onClick = {()=>setPage('Settings')}><Link to={"/settings"}>Settings</Link></li>
                 <li onClick = {()=>setPage('Updates')}><Link to={"/updates"}>Updates</Link></li>
