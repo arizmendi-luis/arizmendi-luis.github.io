@@ -6,7 +6,7 @@ import TopNav from '../components/TopNav'
 import About from '../components/About' 
 import Index from  '../components/Index' 
 import Notes from '../components/Notes'
-var version = '1.2'
+var version = '0.1.0'
 
 function Home() {
   return ( 
